@@ -12,6 +12,7 @@
 		004F544C20016E3000E0AED4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 004F544A20016E3000E0AED4 /* Main.storyboard */; };
 		004F544E20016E3000E0AED4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 004F544D20016E3000E0AED4 /* Assets.xcassets */; };
 		004F545120016E3000E0AED4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 004F544F20016E3000E0AED4 /* LaunchScreen.storyboard */; };
+		004F54592001713600E0AED4 /* ContainerTableVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 004F54582001713600E0AED4 /* ContainerTableVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		004F544D20016E3000E0AED4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		004F545020016E3000E0AED4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		004F545220016E3000E0AED4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		004F54582001713600E0AED4 /* ContainerTableVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContainerTableVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				004F544620016E3000E0AED4 /* AppDelegate.swift */,
 				004F544820016E3000E0AED4 /* ViewController.swift */,
 				004F544A20016E3000E0AED4 /* Main.storyboard */,
+				004F54582001713600E0AED4 /* ContainerTableVC.swift */,
 				004F544D20016E3000E0AED4 /* Assets.xcassets */,
 				004F544F20016E3000E0AED4 /* LaunchScreen.storyboard */,
 				004F545220016E3000E0AED4 /* Info.plist */,
@@ -138,6 +141,7 @@
 			files = (
 				004F544920016E3000E0AED4 /* ViewController.swift in Sources */,
 				004F544720016E3000E0AED4 /* AppDelegate.swift in Sources */,
+				004F54592001713600E0AED4 /* ContainerTableVC.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
